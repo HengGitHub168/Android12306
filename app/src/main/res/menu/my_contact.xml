@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyContactActivity">
+    <item
+        android:id="@+id/add_contact"
+        android:orderInCategory="100"
+        android:title="添加联系人"
+        android:icon="@drawable/user_male4_50"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/reback"
+        android:title="退出"
+        app:showAsAction="never" />
+</menu>

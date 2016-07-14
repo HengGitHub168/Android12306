@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Copyright@2016-2020 Heng中国铁路客户服务中心"
+        android:textColor="@color/white"
+        android:layout_marginLeft="14pt"
+        android:layout_marginBottom="3pt"
+        android:id="@+id/textView"
+        android:layout_gravity="bottom" />
+</LinearLayout>
